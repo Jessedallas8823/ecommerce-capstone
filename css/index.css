@@ -7,7 +7,7 @@ Body {
     color: blue;
 
     font-style: italic;
-   font-size: 23px;
+   font-size: 20px;
    
 }
 
@@ -29,6 +29,10 @@ img {
     width: 50px;
     height: auto;
 
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
