@@ -26,8 +26,8 @@ li {
 }
 
 footer{
-    background-color: black;
-    border: rgba(0, 0, 255, 0.503);
+    background-color: rgba(0, 0, 0, 0.773);
+    border: rgb(249, 6, 6);
     font-size: 25px ;
     display: flexbox;
     align-self: center;

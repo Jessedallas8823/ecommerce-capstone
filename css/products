@@ -1,3 +1,10 @@
-p{
-    display: block;
+main {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-size-adjust: 23px
+    ;
 }
