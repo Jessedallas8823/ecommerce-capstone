@@ -5,10 +5,30 @@ background-color: red;
 
 Body {
     color: blue;
+
+    font-style: italic;
+   font-size: 23px;
+   
 }
-.body {
+
+
+h1{
+    background-color: black;
+    border: 10px solid; color: blue;
+    font-style: bold
+
+}
+h1{
     display: flex;
-    justify-content: space-around;
-    align- items: center;
-    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    
 }
+
+img {
+    width: 50px;
+    height: auto;
+
+}
+
+
