@@ -1,5 +1,5 @@
 * {
-    background-color: red;
+    background-color: rgb(241, 230, 215);
 }
 body {
     color: blue;
@@ -31,7 +31,10 @@ footer{
     font-size: 25px ;
     display: flexbox;
     align-self: center;
+color: red;
 }
+
+
 
 
 
