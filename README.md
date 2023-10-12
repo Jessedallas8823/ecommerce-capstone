@@ -65,5 +65,8 @@ Used bootstrap for base structure of nav/ search bar, login, check out, product 
 Bootstrap was a huge help and helped me understand html alot better because even though it gave format I had to take things and combine them in places boot strap did not have in the html or remove unwanted elements 
 manipulated photo size creating multiple copies for American flag footer on each page.
 
-<img src="/images/sign.png"> <img src="/images/homepage.png"> <img src="/images/loginpage.png"> <img src="/images/productspage.png"> <img src="/images/checkoutpage.png">
-
+<img src="/images/homepage.png">
+<img src="/images/loginpage.png">
+<img src="/images/productspage.png">
+<img src="/images/checkoutpage.png">
+<img src="/images/signuppage.png">
