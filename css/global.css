@@ -32,6 +32,9 @@ footer{
     display: flexbox;
     align-self: center;
 color: red;
+background-image: url(/images/footerimage.jpg);
+background-repeat: repeat-x;
+background-size: 50px 20px;
 }
 
 

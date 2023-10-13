@@ -27,3 +27,8 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+main {
+    background-image: url(/images/footerimage.jpg);
+background-repeat: repeat-x;
+background-size: 50px 20px;
+}
