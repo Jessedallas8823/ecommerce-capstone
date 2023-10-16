@@ -12,61 +12,15 @@ Used bootstrap for base structure of nav/ search bar, login, check out, product 
       <button type="submit" class="btn btn-primary"> Create Account</button>
     </form>
 
-    <p><strong>How did you hear about us?</strong></p>
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-      <label class="form-check-label" for="flexCheckDefault">
-        Flyer
-      </label>
-    </div>
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
-      <label class="form-check-label" for="flexCheckChecked">
-        Google
-      </label>
-    </div>
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
-      <label class="form-check-label" for="flexCheckChecked">
-        Youtube Ads
-      </label>
-    </div>
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
-      <label class="form-check-label" for="flexCheckChecked">
-        Social Media
-      </label>
-      <div class="col-md-4">
-        <label for="social media" class="form-label"></label>
-        <select class="form-select" id="social media" optional="">
-          <option value="">Select </option>
-          <option>Twitter</option>
-          <option>Instagram</option>
-          <option>Facebook</option>
-          <option>Snapchat</option>
-        </select>
-        <div class="invalid-feedback">
-          Select social media.
-        </div>
-      </div>
-    </div>
-
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-      <label class="form-check-label" for="flexCheckDefault">
-        Other
-      </label>
-      <div class="mb-3">
-        <label for="exampleInputOther" class="form-label"></label>
-        <input type="Other" class="form-control" id="exampleInputOther">
-      </div>
-    </div>
-
+  
+  
 Bootstrap was a huge help and helped me understand html alot better because even though it gave format I had to take things and combine them in places boot strap did not have in the html or remove unwanted elements 
 manipulated photo size creating multiple copies for American flag footer on each page.
+Although bootstrap was good for initial structure it was a nightmare when working to validate all my pages i found that all the codes i got from there had serious errors in them and because html is forgiving it allowed the webpages to still work properly. Even though it added more work it helped me understand html on a different level and was a great stepping stone.
 
-<img src="/images/homepage.png">
-<img src="/images/loginpage.png">
-<img src="/images/productspage.png">
-<img src="/images/checkoutpage.png">
-<img src="/images/signuppage.png">
+
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
