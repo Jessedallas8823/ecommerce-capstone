@@ -19,8 +19,8 @@ manipulated photo size creating multiple copies for American flag footer on each
 Although bootstrap was good for initial structure it was a nightmare when working to validate all my pages i found that all the codes i got from there had serious errors in them and because html is forgiving it allowed the webpages to still work properly. Even though it added more work it helped me understand html on a different level and was a great stepping stone.
 
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="/images/homepage.png">
+<img src="/images/signup.png">
+<img src="/images/loginpage.png">
+<img src="/images/products.png">
+<img src="/images/checkoutpage.png">
